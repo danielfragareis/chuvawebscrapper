@@ -1,0 +1,5 @@
+br\com\dfr\chuvawebscrapper\controller\ExcelExporter.class
+br\com\dfr\chuvawebscrapper\entities\Paper.class
+br\com\dfr\chuvawebscrapper\entities\scrapper\Scrapper.class
+br\com\dfr\chuvawebscrapper\Chuvawebscrapper.class
+br\com\dfr\chuvawebscrapper\entities\Person.class
